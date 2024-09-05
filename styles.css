@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f5e3; /* Matches the beige background */
+    color: #333; /* Basic text color */
+    padding: 20px;
+    line-height: 1.6;
+}
+
+.content {
+    max-width: 600px;
+    margin: auto;
+    text-align: left; /* Align text to the left */
+}
+
+h1 {
+    font-family: 'Georgia', serif;
+    color: #444;
+    text-align: center; /* Center-align the title */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block; /* Center the image */
+    margin: 0 auto 20px; /* Add space below the image */
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold-red {
+    font-weight: bold;
+    color: #d32f2f; /* Dark red color for emphasis */
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    color: #4a90e2;
+    text-decoration: none;
+    text-align: center; /* Center-align the link */
+}
+
+a:hover {
+    text-decoration: underline;
+}
