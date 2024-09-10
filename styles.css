@@ -1,7 +1,7 @@
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f9f5e3; /* Matches the beige background */
-    color: #333; /* Basic text color */
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #f9f5e3;
+    color: #333;
     padding: 20px;
     line-height: 1.6;
 }
@@ -9,20 +9,20 @@ body {
 .content {
     max-width: 600px;
     margin: auto;
-    text-align: left; /* Align text to the left */
+    text-align: left;
 }
 
 h1 {
-    font-family: 'Georgia', serif;
+    font-family: 'Times New Roman', serif;
     color: #444;
-    text-align: center; /* Center-align the title */
+    text-align: center;
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
-    display: block; /* Center the image */
-    margin: 0 auto 20px; /* Add space below the image */
+    display: block;
+    margin: 0 auto 20px;
 }
 
 .italic {
@@ -31,7 +31,7 @@ img {
 
 .bold-red {
     font-weight: bold;
-    color: #d32f2f; /* Dark red color for emphasis */
+    color: #d32f2f;
 }
 
 .underline {
@@ -43,7 +43,7 @@ a {
     margin-top: 20px;
     color: #4a90e2;
     text-decoration: none;
-    text-align: center; /* Center-align the link */
+    text-align: center;
 }
 
 a:hover {
