@@ -35,5 +35,9 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 50%;
+    width: 20%;
+}
+a {
+    display: block; 
+    margin-top: 20px; 
 }
