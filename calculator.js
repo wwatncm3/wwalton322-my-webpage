@@ -12,7 +12,7 @@ function simpCalculator(){
         let x_val = prompt("Enter the first number: "); //1st Number Prompt
         if (x_val == null) break;
 
-        let operator_type = prompt("Enter an operator(+, -, *, /): ");//operator selction
+        let operator_type = prompt("Enter an operator(+, -, *, /,%): ");//operator selction
         if (operator_type == null) break;
 
         let y_val = prompt("Enter the second number: "); //2nd Number Prompt
